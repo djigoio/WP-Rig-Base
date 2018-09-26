@@ -86,10 +86,10 @@ Thumbs.db
 # "plugins" directory
 # "themes" directory
 wp-content/*
+wp-content/themes/wprig/dev/config/themeConfig.js
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
-wp-content/themes/wprig/dev/themeConfig.js
 
 # ignore these plugins
 wp-content/plugins/hello.php
