@@ -1,0 +1,6 @@
+{
+  "phpcs.enable": true,
+  "phpcs.composerJsonPath": "wp-content/themes/[yourThemeFolder]/composer.json",
+  "phpcs.standard": "WordPress",
+  "editor.renderWhitespace": "all"
+}
